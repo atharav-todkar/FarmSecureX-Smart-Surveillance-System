@@ -10,7 +10,7 @@ The design focuses on reliability, low power consumption, and suitability for ru
 
 ## 4.2 Block Diagram
 
-![Block Diagram](./block_diagram.png)
+![Block Diagram](./block_diagram.jpeg)
 
 ---
 

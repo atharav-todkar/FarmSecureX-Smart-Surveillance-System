@@ -2,7 +2,7 @@
 
 ## Workflow Diagram
 
-![Workflow](./06_workflow_diagram.jpeg)
+![Workflow](./workflow_diagram.jpeg)
 
 ## Explanation
 

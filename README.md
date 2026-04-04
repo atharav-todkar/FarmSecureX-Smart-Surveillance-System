@@ -4,7 +4,16 @@
 
 FarmSecureX is an intelligent, low-cost surveillance and protection system designed to prevent **agricultural motor and copper cable theft** in remote rural environments. The system provides **real-time monitoring, instant alerts, and location tracking**, ensuring continuous protection of critical farm infrastructure.
 
+---## 📸 Real-Time Project Demonstration
+
+### 🔧 Hardware Setup
+![Setup 1](images/setup_1.jpeg)
+![Setup 2](images/setup_2.jpeg)
+
 ---
+
+### 📩 Alert Output
+![Alert](images/alert_sms.jpeg)
 
 ## 🎯 Problem Statement
 

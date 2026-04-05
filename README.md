@@ -91,7 +91,7 @@ This approach is **UART-free**, noise-immune, and far more reliable than convent
 
 ## 🧠 System Architecture
 
-[![Block Diagram](https://github.com/atharav-todkar/FarmSecureX-Smart-Surveillance-System/raw/main/docs/block_diagram.png)](https://github.com/atharav-todkar/FarmSecureX-Smart-Surveillance-System/blob/main/docs/block_diagram.png)
+[![Block Diagram](https://github.com/atharav-todkar/FarmSecureX-Smart-Surveillance-System/raw/main/docs/block_diagram.jpeg)](https://github.com/atharav-todkar/FarmSecureX-Smart-Surveillance-System/blob/main/docs/block_diagram.jpeg)
 
 ---
 

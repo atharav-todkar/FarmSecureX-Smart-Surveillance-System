@@ -109,7 +109,7 @@ This approach is **UART-free**, noise-immune, and far more reliable than convent
 
 ---
 
-## 📊 Alert Classification
+## 🔔 Alert Classification
 
 | Scenario | Trigger | Alert Sent |
 |---|---|---|
@@ -204,6 +204,7 @@ This approach is **UART-free**, noise-immune, and far more reliable than convent
 | Email delivery | ✅ 100% success |
 | Auto reset cooldown | 60 seconds |
 | GPS coordinates | Google Maps link in SMS |
+---
 
 ## 📂 Project Structure
 ```
@@ -227,8 +228,7 @@ FarmSecureX/
 - Industrial motor protection
 
 ---
-
-## 📈 Commercial Viability
+## 💼 Commercial Viability
 
 - 20+ million irrigation pump sets in India
 - High demand in theft-prone rural areas

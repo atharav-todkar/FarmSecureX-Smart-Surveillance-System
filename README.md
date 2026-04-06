@@ -117,6 +117,93 @@ This approach is **UART-free**, noise-immune, and far more reliable than convent
 | Motor Theft | Vibration detected + wire tampered | "Motor Theft! Vibration detected while wire tampered." + GPS |
 
 ---
+## 📊 System Performance Results
+
+> All results from live hardware testing on actual deployed system.
+
+### 🖥️ System Startup
+<p align="center">
+  <img src="images/result_01_startup.jpeg" width="48%"/>
+  &nbsp;
+  <img src="images/result_02_system_ready.jpeg" width="48%"/>
+</p>
+
+---
+
+### ✅ Normal Operation Status
+<p align="center">
+  <img src="images/result_03_status_normal.jpeg" width="70%"/>
+</p>
+
+---
+
+### 🚨 Wire Tampering Detection
+<p align="center">
+  <img src="images/result_04_wire_tamper.jpeg" width="48%"/>
+  &nbsp;
+  <img src="images/result_05_photo_captured.jpeg" width="48%"/>
+</p>
+
+---
+
+### 🚨🚨 Motor Theft Detection
+<p align="center">
+  <img src="images/result_06_motor_theft.jpeg" width="48%"/>
+  &nbsp;
+  <img src="images/result_07_three_photos.jpeg" width="48%"/>
+</p>
+
+---
+
+### 🔁 System Reset After Theft
+<p align="center">
+  <img src="images/result_08_system_reset.jpeg" width="70%"/>
+</p>
+
+---
+
+### 📷 ESP32-CAM Startup
+<p align="center">
+  <img src="images/result_09_esp32_startup.jpeg" width="48%"/>
+  &nbsp;
+  <img src="images/result_10_esp32_wifi.jpeg" width="48%"/>
+</p>
+
+---
+
+### 🌐 ESP32-CAM Endpoints
+<p align="center">
+  <img src="images/result_11_endpoints.jpeg" width="70%"/>
+</p>
+
+---
+
+### 📧 Photo Capture & Email Delivery
+<p align="center">
+  <img src="images/result_12_photo_email.jpeg" width="48%"/>
+  &nbsp;
+  <img src="images/result_13_email_sent.jpeg" width="48%"/>
+</p>
+
+---
+
+## 📈 Performance Summary
+
+| Test Scenario | Detection | SMS | Call | Photos | Classification |
+|---|---|---|---|---|---|
+| Wire Tamper only | ✅ < 10s | ✅ | ✅ | ✅ 1 photo | Wire Tamper ✅ |
+| Motor Theft | ✅ < 1s | ✅ | ✅ | ✅ 3 photos | Motor Theft ✅ |
+| Normal operation | ✅ No trigger | — | — | — | No Alert ✅ |
+
+| Parameter | Result |
+|---|---|
+| Gyroscope threshold | 4.0 deg/s |
+| Motor theft magnitude | 4.5 deg/s |
+| Photo resolution | UXGA 1600×1200 |
+| Photo size | ~856 KB |
+| Email delivery | ✅ 100% success |
+| Auto reset cooldown | 60 seconds |
+| GPS coordinates | Google Maps link in SMS |
 
 ## 📂 Project Structure
 ```

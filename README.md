@@ -20,7 +20,7 @@
 > Complete academic synopsis including introduction, literature review,
 > methodology, live test results, and conclusive discussion.
 
-[📥 Click Here to Download Full Project Synopsis](docs/synopsis.pdf)
+[📥 Click Here to Download Full Project Synopsis](docs/synopsiss.pdf)
 
 ---
 

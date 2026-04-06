@@ -15,6 +15,15 @@
 
 ---
 
+## 📄 Project Synopsis
+
+> Complete academic synopsis including introduction, literature review,
+> methodology, live test results, and conclusive discussion.
+
+[📥 Click Here to Download Full Project Synopsis](docs/synopsis.pdf)
+
+---
+
 ## 📹 Demo Video
 
 [![Watch Demo Video](images/setup_1.jpeg)](https://drive.google.com/file/d/1atzc_Vcp6JefVFcf8UUEqGxHjWka0O-v/view?usp=drivesdk)
